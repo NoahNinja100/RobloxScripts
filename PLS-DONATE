@@ -1299,33 +1299,33 @@ local function BKBOMI_fake_script() -- Button2_7.METAB SCRIPT
 			while _G.Toggle do
 				wait(0.1)
 				local args = {
-					[1] = "<stroke color=\"#9400D3\" thickness=\"7\"><font color= \"#000000\"><font face=\"Bangers\">x╔═══════╗x \n0-------------10000 \nx╚═══════╝X</font></font></stroke>",
+					[1] = "<stroke color=\"#9400D3\" thickness=\"7\"><font color= \"#000000\"><font face=\"Bangers\">x╔═══════╗x \n857-------------10000 \nx╚═══════╝X</font></font></stroke>",
 					[2] = "booth"
 				}
 				game:GetService("ReplicatedStorage").Events.EditBooth:FireServer(unpack(args))
 				wait(0.1)
 				local args = {
-					[1] = "<stroke color=\"#0000FF\" thickness=\"7\"><font color= \"#000000\"><font face=\"Bangers\">x╔═══════╗x \n0-------------10000 \nx╚═══════╝X</font></font></stroke>",
+					[1] = "<stroke color=\"#0000FF\" thickness=\"7\"><font color= \"#000000\"><font face=\"Bangers\">x╔═══════╗x \n857-------------10000 \nx╚═══════╝X</font></font></stroke>",
 					[2] = "booth"
 				}
 				game:GetService("ReplicatedStorage").Events.EditBooth:FireServer(unpack(args))
 				wait(0.1)			local args = {
-					[1] = "<stroke color=\"#FFFF00\" thickness=\"7\"><font color= \"#000000\"><font face=\"Bangers\">x╔═══════╗x \n0-------------10000 \nx╚═══════╝X</font></font></stroke>",
+					[1] = "<stroke color=\"#FFFF00\" thickness=\"7\"><font color= \"#000000\"><font face=\"Bangers\">x╔═══════╗x \n857-------------10000 \nx╚═══════╝X</font></font></stroke>",
 					[2] = "booth"
 				}
 				game:GetService("ReplicatedStorage").Events.EditBooth:FireServer(unpack(args))
 				wait(0.1)			local args = {
-					[1] = "<stroke color=\"#FF7F00\" thickness=\"7\"><font color= \"#000000\"><font face=\"Bangers\">x╔═══════╗x \n0-------------10000 \nx╚═══════╝X</font></font></stroke>",
+					[1] = "<stroke color=\"#FF7F00\" thickness=\"7\"><font color= \"#000000\"><font face=\"Bangers\">x╔═══════╗x \n857-------------10000 \nx╚═══════╝X</font></font></stroke>",
 					[2] = "booth"
 				}
 				game:GetService("ReplicatedStorage").Events.EditBooth:FireServer(unpack(args))
 				wait(0.1)			local args = {
-					[1] = "<stroke color=\"#FF0000\" thickness=\"7\"><font color= \"#000000\"><font face=\"Bangers\">x╔═══════╗x \n0-------------10000 \nx╚═══════╝X</font></font></stroke>",
+					[1] = "<stroke color=\"#FF0000\" thickness=\"7\"><font color= \"#000000\"><font face=\"Bangers\">x╔═══════╗x \n857-------------10000 \nx╚═══════╝X</font></font></stroke>",
 					[2] = "booth"
 				}
 				game:GetService("ReplicatedStorage").Events.EditBooth:FireServer(unpack(args))
 				wait(0.1)			local args = {
-					[1] = "<stroke color=\"#FF7F00\" thickness=\"7\"><font color= \"#000000\"><font face=\"Bangers\">x╔═══════╗x \n0-------------10000 \nx╚═══════╝X</font></font></stroke>",
+					[1] = "<stroke color=\"#FF7F00\" thickness=\"7\"><font color= \"#000000\"><font face=\"Bangers\">x╔═══════╗x \n857-------------10000 \nx╚═══════╝X</font></font></stroke>",
 					[2] = "booth"
 				}
 				game:GetService("ReplicatedStorage").Events.EditBooth:FireServer(unpack(args))
